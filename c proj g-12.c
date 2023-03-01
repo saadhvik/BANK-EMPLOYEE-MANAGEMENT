@@ -1,15 +1,4 @@
-// Bank Employee Management Project
-/*
 
-Members :
-
-Lalit Chaudhary (AP21110010424)
-
-Bhavana Sree Vemuri (AP21110010425)
-
-Venkata Krishna Saadhvik Muddana (AP21110010426)
-
-*/
 
 #include<stdio.h>
 #include<stdlib.h>
